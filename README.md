@@ -12,6 +12,6 @@ Initial PoC for monitoring and assessing battery health, open for collaborative 
 To set up the Battery Health Monitor on your local machine, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/BatteryHealthMonitor.git
+git clone https://github.com/mayankbaluni/BatteryHealthMonitor.git
 cd BatteryHealthMonitor
 # Open index.html in your web browser
